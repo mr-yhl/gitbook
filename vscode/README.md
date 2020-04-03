@@ -84,3 +84,4 @@ Microsoft在2015年4月30日Build 开发者大会上正式宣布了 Visual Studi
 
 ## 2.软件安装（windows系统）
 
+![安装图](./img、)
