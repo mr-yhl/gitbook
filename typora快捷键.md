@@ -1,5 +1,5 @@
-## 一：菜单栏
 
+## 一：菜单栏
 文件： <kbd>alt</kbd>+<kbd>F</kbd>
 编辑： <kbd>alt</kbd>+<kbd>E</kbd>
 段落： <kbd>alt</kbd>+<kbd>P</kbd>
@@ -32,9 +32,9 @@
 选中当前行/句：<kbd>Ctrl</kbd>+<kbd>L</kbd>
 选中当前格式文本：<kbd>Ctrl</kbd>+<kbd>E</kbd>
 选中当前词：<kbd>Ctrl</kbd>+<kbd>D</kbd>
-跳转到文首：<kbd>Ctrl</kbd>+<kbd>Home</kbd>
+跳转到文首：<kbd>Ctrl</kbd>+<kbd>H</kbd>ome
 跳转到所选内容：<kbd>Ctrl</kbd>+<kbd>J</kbd>
-跳转到文末：<kbd>Ctrl</kbd>+<kbd>End</kbd>
+跳转到文末：<kbd>Ctrl</kbd>+<kbd>E</kbd>nd
 查找：<kbd>Ctrl</kbd>+<kbd>F</kbd>
 查找下一个：<kbd>F3</kbd>
 查找上一个：<kbd>Shift</kbd>+<kbd>F3</kbd>
@@ -42,7 +42,7 @@
 
 ## 四：段落
 
-标题：<kbd>Ctrl</kbd>+<kbd>1/2/3/4/5/6</kbd>
+标题：<kbd>Ctrl</kbd>+<kbd>1/2/3/4/5</kbd>
 段落：<kbd>Ctrl</kbd>+<kbd>0</kbd>
 增大标题级别：<kbd>Ctrl</kbd>+<kbd>=</kbd>
 减少标题级别：<kbd>Ctrl</kbd>+<kbd>-</kbd>
